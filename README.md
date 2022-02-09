@@ -1,1 +1,2 @@
-mi primer readme
+#!/bin/bash
+hello ubuntu
